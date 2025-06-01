@@ -23,7 +23,7 @@
 
 ## 📜 문서
 자세한 설명과 사용법은 아래 PDF 문서를 확인하세요:  
-📥 [**PDF 문서 보기**](./final-project.pdf)
+📥 [**PDF 문서 보기**](./https://github.com/donggonyoo/javaSchedule/blob/main/%EC%9E%90%EB%B0%94%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85.pdf)
 
 ## 🛠️ 기술 스택
 | **기술**      | **버전** |
