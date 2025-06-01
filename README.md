@@ -1,5 +1,5 @@
 # javaSchedule
-<image-card alt="프로젝트 헤더" src="https://github.com/donggonyoo/javaSchedule/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-06-01%20190931.png" width="600"></image-card>
+<image-card alt="프로젝트 헤더" src="https://raw.githubusercontent.com/donggonyoo/javaSchedule/main/스크린샷 2025-06-01 190931.png" width="600"></image-card>
 
 이 프로젝트는 자바 프로젝트지만 client와 controller를 구분하여 사용자는 내부 기능을 알 수 없습니다.
 
